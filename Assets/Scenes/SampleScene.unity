@@ -1948,7 +1948,7 @@ GameObject:
   - component: {fileID: 2147076736}
   - component: {fileID: 2147076737}
   m_Layer: 0
-  m_Name: PlacetManager
+  m_Name: PlaceManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
