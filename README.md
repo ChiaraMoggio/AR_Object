@@ -25,10 +25,10 @@ Permette di visualizzare un modello 3D (Audi A7), trasformarlo e visualizzare to
 - UI Canvas e Input Touch
 
 ## Struttura del progetto
-- `placeAudi.cs`: gestione posizionamento su piano.
-- `TransformationManager.cs`: gestione trasformazioni tramite pulsanti.
-- `TooltipController.cs`: gestione visualizzazione tooltip.
+- placeAudi: gestione posizionamento su piano.
+- TransformationManager: gestione trasformazioni tramite pulsanti.
+- TooltipController.cs: gestione visualizzazione tooltip.
 - Prefab:
-  - `Audi_A7`: modello 3D.
-  - `AR Default Plane`: visualizzazione dei piani.
+  - Audi_A7: modello 3D.
+  - AR Default Plane: visualizzazione dei piani.
 
