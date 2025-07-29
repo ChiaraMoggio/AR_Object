@@ -17,7 +17,13 @@ Permette di visualizzare un modello 3D (Audi scaricata da TurboSquid), trasforma
   - Bumper.
   - Lights.
   - Mirrors. 
-
+## Ottimizzazione tramite LOD 
+- Modello Audi organizzato in 3 livelli di dettaglio
+  - LOD Group:
+    - LOD 0: 100%
+    - LOD 1: 60%
+    - LOD 2: 30%
+       
 ## Tecnologie utilizzate
 - Unity 3D versione 2022.3.25f
 - AR Foundation
@@ -29,6 +35,6 @@ Permette di visualizzare un modello 3D (Audi scaricata da TurboSquid), trasforma
 - TransformationManager: gestione trasformazioni tramite pulsanti.
 - TooltipController.cs: gestione visualizzazione tooltip.
 - Prefab:
-  - Audi_A7: modello 3D.
+  - Audi_A7: modello 3D con 3 livelli di dettaglio.
   - AR Default Plane: visualizzazione dei piani.
 
