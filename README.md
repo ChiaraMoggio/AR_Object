@@ -1,7 +1,7 @@
 # AR_Object
 
 Applicazione AR sviluppata con Unity e AR Foundation.  
-Permette di visualizzare un modello 3D (Audi A7), trasformarlo e visualizzare tooltip informativi.
+Permette di visualizzare un modello 3D (Audi scaricata da TurboSquid), trasformarlo e visualizzare tooltip informativi.
 
 ## Funzionalità
 - Rilevamento dei piani tramite AR Foundation (ARCore).
