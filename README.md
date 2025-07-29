@@ -11,7 +11,7 @@ Permette di visualizzare un modello 3D (Audi scaricata da TurboSquid), trasforma
   - Ruotarlo.
   - Scalarlo.
   - Alzarlo o abbassarlo rispetto al piano.
-- Tooltip ìvisualizzabili in AR cliccando sui punti sensibili del modello:
+- Tooltip visualizzabili in AR cliccando sui punti sensibili del modello:
   - Windows.
   - Knobs.
   - Bumper.
