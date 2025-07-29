@@ -19,7 +19,7 @@ Permette di visualizzare un modello 3D (Audi scaricata da TurboSquid), trasforma
   - Mirrors. 
 
 ## Tecnologie utilizzate
-- Unity 3D
+- Unity 3D versione 2022.3.25f
 - AR Foundation
 - ARCore XR Plugin
 - UI Canvas e Input Touch
