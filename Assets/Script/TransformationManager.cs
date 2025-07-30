@@ -44,7 +44,7 @@ public class TransformationManager : MonoBehaviour
                 switch (currentMode)
                 {
                     case "Move":
-                        target.transform.position += new Vector3(delta.x, 0, delta.y) * 1f;
+                        target.transform.position += new Vector3(delta.x, 0, delta.y) * 0.0005f;
                         Debug.Log("moving");
                         break;
                     case "Rotate":
