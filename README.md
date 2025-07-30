@@ -16,7 +16,8 @@ Permette di visualizzare un modello 3D (Audi scaricata da TurboSquid), trasforma
   - Knobs.
   - Bumper.
   - Lights.
-  - Mirrors. 
+  - Mirrors.
+    * i punti sensibili sono stati messi in evidenza tramite material trasparente giallo.
 ## Ottimizzazione tramite LOD 
 - Modello Audi organizzato in 3 livelli di dettaglio
   - LOD Group:
