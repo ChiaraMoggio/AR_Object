@@ -23,7 +23,7 @@ Permette di visualizzare un modello 3D (Audi scaricata da TurboSquid), trasforma
     - LOD 0: 100%
     - LOD 1: 60%
     - LOD 2: 30%
-*nei LOD 1 e LOD 2 sono stati disattivati Cast Shadows e Receive Shadows su tutti i Mesh Renderer per riduzione di draw calls e migliorare le prestazioni,
+*nei LOD 1 e LOD 2 sono stati disattivati Cast Shadows e Receive Shadows su tutti i Mesh Renderer per riduzione di draw calls e migliorare le prestazioni.
        
 ## Tecnologie utilizzate
 - Unity 3D versione 2022.3.25f
